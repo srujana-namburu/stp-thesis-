@@ -1,0 +1,17 @@
+asgiref
+Django
+gunicorn
+packaging
+sqlparse
+whitenoise 
+numpy
+pandas
+matplotlib
+seaborn
+nltk
+wordcloud
+scikit-learn
+django
+openai
+langchain
+langchain_ollama
